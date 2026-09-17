@@ -1,0 +1,49 @@
+01. Introduction & Setup
+	(1280, 720) | 01. Course Overview.mp4
+	(1280, 720) | 02. Create The Project.mp4
+	(1280, 720) | 03. Community & Support.mp4
+	(1280, 720) | 04. Accessing Our Projects.mp4
+02. Shaders 101
+	(1280, 720) | 01. Section Intro - Shaders 101.mp4
+	(1280, 720) | 02. What Are Shaders.mp4
+	(1280, 720) | 03. Your First Shader.mp4
+	(1280, 720) | 04. Data Types.mp4
+	(1280, 720) | 05. Vectors.mp4
+	(1280, 720) | 06. Swizzling.mp4
+	(1280, 720) | 07. Flow Control.mp4
+	(1280, 720) | 08. Functions.mp4
+	(1280, 720) | 09. Shader Documentation.mp4
+	(1280, 720) | 10. Manipulating Vertices.mp4
+	(1280, 720) | 11. The TIME.mp4
+	(1280, 720) | 12. Sine and Cosine.mp4
+	(1280, 720) | 13. Controlling Pixel Color.mp4
+	(1280, 720) | 14. Textures.mp4
+	(1280, 720) | 15. Uniforms.mp4
+	(1280, 720) | 16. Set Uniforms From Code.mp4
+	(1280, 720) | 17. Wrap Up - Shaders 101.mp4
+03. Common Techniques
+	(1280, 720) | 01. Section Intro - 2D Shaders.mp4
+	(1280, 720) | 02. Download The Project.mp4
+	(1280, 720) | 03. Scrolling Background.mp4
+	(1280, 720) | 04. Flash Effect.mp4
+	(1280, 720) | 05. Grayscale.mp4
+	(1280, 720) | 06. Mapping Gradient Colors.mp4
+	(1280, 720) | 07. Screen Reading.mp4
+	(1280, 720) | 08. Dissolve.mp4
+	(1280, 720) | 09. Masking.mp4
+	(1280, 720) | 10. Texture Scrolling.mp4
+	(1280, 720) | 11. Distortion.mp4
+	(1280, 720) | 12. Wrap Up - 2D Shaders.mp4
+04. Spatial Shaders
+	(1280, 720) | 01. Section Intro - Spatial Shaders.mp4
+	(1280, 720) | 02. Download The Project.mp4
+	(1280, 720) | 03. MeshInstance3D.mp4
+	(1280, 720) | 04. ALBEDO and ALPHA.mp4
+	(1280, 720) | 05. Texturing.mp4
+	(1280, 720) | 06. Metallic and Roughness.mp4
+	(1280, 720) | 07. Render Modes.mp4
+	(1280, 720) | 08. StandardMaterial3D.mp4
+	(1280, 720) | 09. Vertices in 3D.mp4
+	(1280, 720) | 10. Normal Maps.mp4
+	(1280, 720) | 11. Water Shader.mp4
+	(1280, 720) | 12. Wrap Up - Spatial Shaders.mp4
